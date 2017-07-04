@@ -1,0 +1,7 @@
+Injector:
+  SS_Transliterator:
+    class: Advanced_Transliterator
+
+Advanced_Transliterator:
+  use_cyrillic_table: true
+  use_transliterator_transliterate: true

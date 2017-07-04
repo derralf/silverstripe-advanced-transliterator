@@ -1,0 +1,17 @@
+{
+  "name": "derralf/silverstripe-advanced-transliterator",
+  "type": "silverstripe-module",
+  "description": "Adds advanced transliteration.",
+  "keywords": ["silverstripe", "transliteration", "transliterate", "cyrillic", "urlsegment"],
+  "authors": [{
+    "name": "derralf",
+    "homepage": "https://github.com/derralf/silverstripe-advanced-transliterator"
+  }],
+  "require": {
+    "silverstripe/cms": "3.*"
+  },
+  "minimum-stability": "dev",
+  "extra": {
+    "installer-name": "advanced-transliterator"
+  }
+}
