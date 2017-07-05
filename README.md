@@ -3,9 +3,9 @@ Advanced transliteration for SilverStripe
 
 Adds support for cyrillic transliteration for SilverStripe.
 
-Uses Passport (2013) system, ICAO, for cyrillic ([http://en.wikipedia.org/wiki/Romanization_of_Russian#Transliteration_table]())
+Uses Passport (2013) system, ICAO, for cyrillic (<http://en.wikipedia.org/wiki/Romanization_of_Russian#Transliteration_table>)
 
-Additionally uses Transliterator::transliterate if available to romanize other non-ascii  characters like e.g. chinese ([http://us2.php.net/manual/de/transliterator.transliterate.php]())
+Additionally uses Transliterator::transliterate if available to romanize other non-ascii  characters like e.g. chinese (<http://us2.php.net/manual/de/transliterator.transliterate.php>)
 
 ## Requirements
 
